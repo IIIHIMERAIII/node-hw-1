@@ -1,3 +1,3 @@
 1. node index.js --action="list"
 
-![Screenshot](/screens/list.png)
+<img src="/screens/list.png" width="350" title="hover text">)
