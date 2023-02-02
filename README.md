@@ -1,3 +1,3 @@
 1. node index.js --action="list"
 
-![Screenshot](screens/list.png)
+![Screenshot](node-hw-1/screens//list.png)
