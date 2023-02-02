@@ -1,1 +1,3 @@
-![alt text](https://monosnap.com/file/ZqBxB52uHFkgLHNY53VnQMgRtBAW1w)
+1. node index.js --action="list"
+
+![Screenshot](list.png)
